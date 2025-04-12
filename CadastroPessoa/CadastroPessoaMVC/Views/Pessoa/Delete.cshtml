@@ -1,0 +1,11 @@
+@model CadastroPessoaMVC.Models.Pessoa
+
+<h2>Excluir Pessoa</h2>
+
+<p>Você tem certeza que deseja excluir <strong>@Model.Nome</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Confirmar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

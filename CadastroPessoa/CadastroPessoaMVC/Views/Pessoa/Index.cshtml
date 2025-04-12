@@ -1,0 +1,26 @@
+@model IEnumerable<CadastroPessoaMVC.Models.Pessoa>
+
+<h2>Lista de Pessoas</h2>
+<a href="/Pessoa/Create">Nova Pessoa</a>
+<table class="table">
+    <tr>
+        <th>Nome</th>
+        <th>CPF</th>
+        <th>Email</th>
+        <th>Nascimento</th>
+        <th>Ações</th>
+    </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nome</td>
+                <td>@item.CPF</td>
+                <td>@item.Email</td>
+                <td>@item.DataNascimento.ToShortDateString()</td>
+                <td>
+                    <a href="/Pessoa/Edit/@item.Id">Editar</a> |
+                    <a href="/Pessoa/Delete/@item.Id">Excluir</a>
+                </td>
+            </tr>
+        }
+</table>

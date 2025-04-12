@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GSW\\Treinamentos\\CadastroPessoa\\CadastroPessoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D615774-B361-44D4-897A-A76FBD37EB5C}|CadastroPessoaMVC\\CadastroPessoaMVC.csproj|d:\\gsw\\treinamentos\\cadastropessoa\\cadastropessoa\\cadastropessoamvc\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D615774-B361-44D4-897A-A76FBD37EB5C}|CadastroPessoaMVC\\CadastroPessoaMVC.csproj|solutionrelative:cadastropessoamvc\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D615774-B361-44D4-897A-A76FBD37EB5C}|CadastroPessoaMVC\\CadastroPessoaMVC.csproj|d:\\gsw\\treinamentos\\cadastropessoa\\cadastropessoa\\cadastropessoamvc\\views\\pessoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D615774-B361-44D4-897A-A76FBD37EB5C}|CadastroPessoaMVC\\CadastroPessoaMVC.csproj|solutionrelative:cadastropessoamvc\\views\\pessoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D615774-B361-44D4-897A-A76FBD37EB5C}|CadastroPessoaMVC\\CadastroPessoaMVC.csproj|d:\\gsw\\treinamentos\\cadastropessoa\\cadastropessoa\\cadastropessoamvc\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D615774-B361-44D4-897A-A76FBD37EB5C}|CadastroPessoaMVC\\CadastroPessoaMVC.csproj|solutionrelative:cadastropessoamvc\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D615774-B361-44D4-897A-A76FBD37EB5C}|CadastroPessoaMVC\\CadastroPessoaMVC.csproj|d:\\gsw\\treinamentos\\cadastropessoa\\cadastropessoa\\cadastropessoamvc\\views\\pessoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D615774-B361-44D4-897A-A76FBD37EB5C}|CadastroPessoaMVC\\CadastroPessoaMVC.csproj|solutionrelative:cadastropessoamvc\\views\\pessoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D615774-B361-44D4-897A-A76FBD37EB5C}|CadastroPessoaMVC\\CadastroPessoaMVC.csproj|d:\\gsw\\treinamentos\\cadastropessoa\\cadastropessoa\\cadastropessoamvc\\views\\pessoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D615774-B361-44D4-897A-A76FBD37EB5C}|CadastroPessoaMVC\\CadastroPessoaMVC.csproj|solutionrelative:cadastropessoamvc\\views\\pessoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\GSW\\Treinamentos\\CadastroPessoa\\CadastroPessoa\\CadastroPessoaMVC\\Views\\Pessoa\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CadastroPessoaMVC\\Views\\Pessoa\\Edit.cshtml",
+              "ToolTip": "D:\\GSW\\Treinamentos\\CadastroPessoa\\CadastroPessoa\\CadastroPessoaMVC\\Views\\Pessoa\\Edit.cshtml",
+              "RelativeToolTip": "CadastroPessoaMVC\\Views\\Pessoa\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T13:25:02.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "D:\\GSW\\Treinamentos\\CadastroPessoa\\CadastroPessoa\\CadastroPessoaMVC\\Services\\PessoaService.cs",
+              "RelativeDocumentMoniker": "CadastroPessoaMVC\\Services\\PessoaService.cs",
+              "ToolTip": "D:\\GSW\\Treinamentos\\CadastroPessoa\\CadastroPessoa\\CadastroPessoaMVC\\Services\\PessoaService.cs",
+              "RelativeToolTip": "CadastroPessoaMVC\\Services\\PessoaService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:12:41.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GSW\\Treinamentos\\CadastroPessoa\\CadastroPessoa\\CadastroPessoaMVC\\Views\\Pessoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadastroPessoaMVC\\Views\\Pessoa\\Index.cshtml",
+              "ToolTip": "D:\\GSW\\Treinamentos\\CadastroPessoa\\CadastroPessoa\\CadastroPessoaMVC\\Views\\Pessoa\\Index.cshtml",
+              "RelativeToolTip": "CadastroPessoaMVC\\Views\\Pessoa\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T13:15:57.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "D:\\GSW\\Treinamentos\\CadastroPessoa\\CadastroPessoa\\CadastroPessoaMVC\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "CadastroPessoaMVC\\Controllers\\PessoaController.cs",
+              "ToolTip": "D:\\GSW\\Treinamentos\\CadastroPessoa\\CadastroPessoa\\CadastroPessoaMVC\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "CadastroPessoaMVC\\Controllers\\PessoaController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:12:16.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\GSW\\Treinamentos\\CadastroPessoa\\CadastroPessoa\\CadastroPessoaMVC\\Views\\Pessoa\\Create.cshtml",
+              "RelativeDocumentMoniker": "CadastroPessoaMVC\\Views\\Pessoa\\Create.cshtml",
+              "ToolTip": "D:\\GSW\\Treinamentos\\CadastroPessoa\\CadastroPessoa\\CadastroPessoaMVC\\Views\\Pessoa\\Create.cshtml",
+              "RelativeToolTip": "CadastroPessoaMVC\\Views\\Pessoa\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T13:11:32.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

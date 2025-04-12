@@ -1,0 +1,23 @@
+@model CadastroPessoaMVC.Models.Pessoa
+
+<h2>Cadastrar Pessoa</h2>
+
+<form asp-action="Create">
+    <div>
+        <label>Nome</label>
+        <input asp-for="Nome" />
+    </div>
+    <div>
+        <label>CPF</label>
+        <input asp-for="CPF" />
+    </div>
+    <div>
+        <label>Email</label>
+        <input asp-for="Email" />
+    </div>
+    <div>
+        <label>Data de Nascimento</label>
+        <input asp-for="DataNascimento" type="date" />
+    </div>
+    <button type="submit">Salvar</button>
+</form>
